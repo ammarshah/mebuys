@@ -1,0 +1,1 @@
+Dotenv.require_keys("SHOPIFY_CLIENT_API_KEY", "SHOPIFY_CLIENT_API_SECRET")
